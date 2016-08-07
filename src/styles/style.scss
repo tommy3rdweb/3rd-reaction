@@ -1,0 +1,11 @@
+/* VARIABLES */
+
+$primary-text-color: #777;
+$primary-font-family: sans-serif;
+
+/* END VARIABLES */
+
+body{
+    font-family: $primary-font-family;
+    color: $primary-text-color;
+}
