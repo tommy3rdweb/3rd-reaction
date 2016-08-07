@@ -1,2 +1,2 @@
 # 3rd-reaction
-React frontend for WooCommerce
+React frontend for Wordpress
