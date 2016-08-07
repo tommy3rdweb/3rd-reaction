@@ -1,7 +1,7 @@
 {
   "name": "3rd-reaction",
   "version": "1.0.0",
-  "description": "React frontend for WooCommerce",
+  "description": "React frontend for Wordpress",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
