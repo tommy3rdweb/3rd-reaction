@@ -5,7 +5,7 @@ var NODE_MODULES = path.join(__dirname, 'node_modules/');
 var config = {
     entry: './src',
     output: {
-        path: './dist',
+        path: './client',
         filename: '3rd-reaction.js'
     },
     resolve: {
